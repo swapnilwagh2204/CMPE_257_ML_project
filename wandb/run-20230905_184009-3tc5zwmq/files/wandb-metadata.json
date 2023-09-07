@@ -1,0 +1,42 @@
+{
+    "os": "macOS-12.6.7-x86_64-i386-64bit",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-09-06T01:40:10.719408",
+    "startedAt": "2023-09-06T01:40:09.935466",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/waghsx3/Desktop/CMPE_257_ML_project/st_app.py",
+    "codePath": "st_app.py",
+    "git": {
+        "remote": "https://github.com/swapnilwagh2204/CMPE_257_ML_project.git",
+        "commit": "26a6a1033eed07172a35e56f59bc9e31a548f453"
+    },
+    "email": "swapnilw2297@gmail.com",
+    "root": "/Users/waghsx3/Desktop/CMPE_257_ML_project",
+    "host": "URULA-3WUMD6T.abbvienet.com",
+    "username": "waghsx3",
+    "executable": "/Users/waghsx3/Desktop/CMPE_257_ML_project/cc_cenv/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 931.546989440918,
+        "used": 22.761878967285156
+    },
+    "memory": {
+        "total": 32.0
+    }
+}
